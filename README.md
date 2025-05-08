@@ -28,7 +28,7 @@ Messenger is a real-time messaging application built with Flutter and Firebase. 
 **1. Clone the repository:**
    ```bash
    git clone https://github.com/dariusrichardson36/Messenger.git
-
+   ```
 **2. Navigate to the project directory:**
    ```bash
    cd Messenger
