@@ -26,9 +26,26 @@ Messenger is a real-time messaging application built with Flutter and Firebase. 
 ## 📦 How to Run Locally
 
 **1. Clone the repository:**
-   ```
+   ```bash
    git clone https://github.com/dariusrichardson36/Messenger.git
    ```
 **2. Navigate to the project directory:**
    ```bash
    cd Messenger
+   ```
+**3. Fetch dependencies:**
+   ```bash
+   flutter pub get
+   ```
+**4. Launch the app:**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📫 Contact
+
+**Darius Richardson**  
+🔗 [LinkedIn](https://www.linkedin.com/in/darius-richardson-ga-tech)  
+📧 [Email Me](mailto:darius.richardson36@yahoo.com)
