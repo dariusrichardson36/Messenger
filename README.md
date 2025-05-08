@@ -1,17 +1,36 @@
-# chat
+# 💬 Messenger – Real-Time Chat App
 
-A new Flutter project.
+Messenger is a real-time messaging application built with Flutter and Firebase. It allows users to create accounts, sign in securely, and exchange messages through a responsive and intuitive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Firebase Authentication for secure login/sign-up
+- Real-time messaging using Firestore
+- Custom chat bubble design for sent/received messages
+- Emoji-compatible input field
+- Mobile-first UI optimized for Android and iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Chat-App" 
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **Backend:** Firebase (Authentication & Firestore)
+- **Development Tools:** Visual Studio Code
+
+---
+
+## 📦 How to Run Locally
+
+**1. Clone the repository:**
+   ```bash
+   git clone https://github.com/dariusrichardson36/Messenger.git
+
+Navigate to the project directory:
+
+bash
+Copy code
+cd Messenger
