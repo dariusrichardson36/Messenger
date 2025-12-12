@@ -15,11 +15,21 @@ Messenger is a real-time messaging application built with Flutter and Firebase. 
 ---
 
 ## 🛠️ Tech Stack
+### Framework:
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" /> Flutter
 
-- **Framework:** Flutter
-- **Language:** Dart
-- **Backend:** Firebase (Authentication & Firestore)
-- **Development Tools:** Visual Studio Code
+### Language:
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" /> Dart
+
+### Backend:
+<br>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" /> Firebase Authentication & Firestore
+
+### Development Tools:
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" /> Visual Studio Code
 
 ---
 
@@ -44,8 +54,6 @@ Messenger is a real-time messaging application built with Flutter and Firebase. 
 
 ---
 
-## 📫 Contact
-
-**Darius Richardson**  
-🔗 [LinkedIn](https://www.linkedin.com/in/darius-richardson-ga-tech)  
-📧 [Email Me](mailto:darius.richardson36@yahoo.com)
+## 📝 License 
+This project is licensed under the **MIT License**. 
+See the LICENSE file for details.
